@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "profile_servo_motor.h": "c",
-        "luos.h": "c"
-    }
-}
